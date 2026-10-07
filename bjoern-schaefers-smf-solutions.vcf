@@ -1,12 +1,11 @@
 BEGIN:VCARD
-VERSION:3.0
-N;CHARSET=UTF-8:Schäfers;Björn;;;
-FN;CHARSET=UTF-8:Björn Schäfers
-ORG;CHARSET=UTF-8:SMF-Solutions GmbH
-TITLE;CHARSET=UTF-8:Konstruktionsleiter
-TEL;TYPE=CELL,VOICE:+4915121869388
-EMAIL;TYPE=INTERNET,WORK:bjoernschaefers@smf-solutions.de
+VERSION:4.0
+N:Schäfers;Björn;;;
+FN:Björn Schäfers
+ORG:SMF-Solutions GmbH
+TITLE:Konstruktionsleiter
+TEL;TYPE=cell,voice;VALUE=uri:tel:+4915121869388
+EMAIL:bjoernschaefers@smf-solutions.de
 URL:https://www.smf-solutions.com/de-de
-ADR;TYPE=WORK;CHARSET=UTF-8:;;An den Bleicherkolken 10;Aschendorf;;26871;Deutschland
-LABEL;TYPE=WORK;CHARSET=UTF-8:An den Bleicherkolken 10\n26871 Aschendorf\nDeutschland
+ADR;TYPE=work:;;An den Bleicherkolken 10;Aschendorf;;26871;Deutschland
 END:VCARD
